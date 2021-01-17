@@ -1,0 +1,4 @@
+{
+  "mongoURI": "MONGODBURL HERE",
+  "jwtSecret": "SECRET CODE HERE"
+}
